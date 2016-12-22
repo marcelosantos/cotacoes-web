@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.caelum.argentum</groupId>
-	<artifactId>argentum-web</artifactId>
+	<artifactId>cotacoes-web</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -110,7 +110,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>argentum-web</finalName>
+		<finalName>cotacoes-web</finalName>
 		<plugins>
 
             <plugin>
